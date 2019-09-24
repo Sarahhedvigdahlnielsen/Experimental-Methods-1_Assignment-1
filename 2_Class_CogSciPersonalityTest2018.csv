@@ -1,0 +1,58 @@
+name,birth_day,shoesize,gender,native_Danish,handedness,choose_rand_num,touch_floor,touch_hands,X2D4D,balloon,balloon_balance,breathhold,bad_choices,tongue_twist,romberg_open,romberg_closed,ling_animal,ling_adjective,ling_kiki,ocular_dom,vis_duck,hours_music_per_week,sound_level_pref,taste_cola,taste_jam
+Bertram,1998-12-24,42,male,Yes,Right-handed,9,Yes,"Yes, of course!!",0.94,25,10,101,Eiffel Tower,26,120,120,Raven,Exciting,Bouba,Right,Duck,4,45,Option S,raspberry
+Aske,1996-11-04,44,male,Yes,Right-handed,7,I used to be able to do it,"Yes, of course!!",0.96,12,10,90,Damascus,58,120,16,Bear,Exciting,Bouba,Right,Duck,20,60,Option L,ginger
+Anders,1998-03-16,44,male,Yes,Right-handed,1,Yes,"Yes, of course!!",0.92,22,51,97,Eiffel Tower,40,120,120,Elk,Exciting,Kiki,Right,Rabbit,3,33,Option S,raspberry
+Sofie,1998-08-07,39,female,Yes,Right-handed,7,Yes,"Yes, of course!!",0.87,11,3,32,Eiffel Tower,68,120,120,Raven,Puzzling,Kiki,Right,Duck,17,10,Option S,rosehips
+Sophia,1996-12-14,39,female,Yes,Right-handed,2,"Yes, of course!!","Yes, of course!!",0.97,13,20,47,Damascus,60,107,34,Raven,Puzzling,Bouba,Left,Duck,5,25,Option S,raspberry
+Dora,1999-11-17,39,female,No,Right-handed,7,Yes,Yes,0.98,39,15,50,Damascus,32,120,120,Raven,Puzzling,Kiki,Right,Duck,2,10,Option L,rosehips
+Daryna,1994-02-23,38,female,No,Right-handed,8,"Yes, of course!!","Yes, of course!!",1.0,29,3,39,White shark,28,120,120,Elk,Easy,Bouba,Right,Duck,4,20,Option L,blackcurrant
+Nanna,1998-07-10,39,female,Yes,Right-handed,8,Hell no!,"Yes, of course!!",1.02,19.37,4.16,26.37,Damascus,35.24,120,3.09,Dog,Exciting,Kiki,Both,Duck,14,10,Option L,blackcurrant
+Camilla,1999-01-20,37,female,Yes,Ambidextrous,8,Yes,"Yes, of course!!",0.95,19.92,1.43,39.89,Ultra Marathon,42.88,2,2,Elk,Exciting,Kiki,Left,Duck,6,20,Option S,raspberry
+Thea,1998-03-22,37,female,Yes,Right-handed,8,"Yes, of course!!",Hell no!,1.01,15,9,65,Damascus,69,120,113,Elk,Exciting,Bouba,Left,Duck,35,20,Option L,raspberry
+Matilde,1995-12-25,39,female,Yes,Left-handed,5,"Yes, of course!!","Yes, of course!!",0.96,10,87,61,Eiffel Tower,65,120,5,Horse,Exciting,Kiki,Right,Duck,21,20,Option L,ginger
+Marie,1997-04-10,39,female,Yes,Right-handed,7,Yes,"Yes, of course!!",1.03,17,4,42,Damascus,58,120,120,Dog,Puzzling,Bouba,Right,Rabbit,6,20,Option S,rosehips
+Malte,1996-10-29,47,male,Yes,Right-handed,1,"Yes, of course!!","Yes, of course!!",0.95,13,4,68,Eiffel Tower,42,120,120,Bear,Exciting,Bouba,Left,Rabbit,8,60,Option S,rosehips
+Rebecca,1998-06-04,35,female,Yes,Right-handed,7,I used to be able to do it,"Yes, of course!!",0.94,23,1,36,Damascus,42,120,120,Raven,Nice,Kiki,Right,Duck,28,25,Option L,raspberry
+Jakob,1998-05-28,42,male,Yes,Ambidextrous,8,"Yes, of course!!","Yes, of course!!",0.99,12,18,72,Damascus,38,120,120,Elk,Puzzling,Kiki,Right,Rabbit,7,66,Option S,blackcurrant
+Asger,1998-05-02,47,male,Yes,Right-handed,3,Hell no!,No,0.96,120,1,58,Damascus,45,120,45,Horse,Puzzling,Bouba,Right,Duck,two,40,Option L,raspberry
+Gustav,1995-11-01,46,male,Yes,Right-handed,9,No,Yes,0.9,15,34,50,Ultra Marathon,40,120,120,Bear,Puzzling,Kiki,Left,Duck,8,24,Option L,ginger
+Jacob,1997-06-30,43,male,Yes,Right-handed,3,"Yes, of course!!","Yes, of course!!",0.95,70,35,88,White shark,50,120,120,Raven,Exciting,Kiki,Left,Rabbit,12,25,Option L,ginger
+Lars,1996-03-19,43,male,Yes,Right-handed,7,"Yes, of course!!","Yes, of course!!",1.06,13,120,39,Damascus,65,120,120,Raven,Exciting,Bouba,Left,Rabbit,6,10,Option S,raspberry
+Katrine,1995-11-28,40,female,Yes,Right-handed,6,I used to be able to do it,"Yes, of course!!",0.95,18,17,30,Eiffel Tower,36,120,120,Horse,Nice,Kiki,Left,Duck,10,11,Option L,bitter_orange
+Sofie,1997-12-06,38,female,Yes,Right-handed,7,Hell no!,"Yes, of course!!",1.04,19,35,62,Eiffel Tower,46,120,120,Bear,Nice,Bouba,Left,Duck,1,30,Option L,rosehips
+Eva,2018-08-10,39,female,Yes,Right-handed,7,"Yes, of course!!",Yes,0.98,16,5,50,Damascus,50,120,120,Elk,Exciting,Bouba,Left,Duck,3525,25,Option S,ginger
+Sara,1996-05-26,39,female,Yes,Right-handed,6,"Yes, of course!!","Yes, of course!!",1.0,25,4,20,Damascus,53,120,120,Horse,Puzzling,Kiki,Both,Rabbit,8,40,Option S,blackcurrant
+Orla,1995-08-20,36,female,No,Right-handed,7,I used to be able to do it,"Yes, of course!!",0.92,59,9,52,Eiffel Tower,41,120,120,Horse,Exciting,Kiki,Both,Rabbit,14,30,Option S,raspberry
+Stine,1995-10-09,37,female,Yes,Right-handed,3,"Yes, of course!!","Yes, of course!!",0.87,120,7,38,Eiffel Tower,36,120,18,Raven,Puzzling,Kiki,Right,Duck,30,40,Option S,raspberry
+Bianka,1999-06-18,39,female,No,Right-handed,7,Hell no!,Yes,0.97,12,2,50,Eiffel Tower,48,120,120,Raven,Nice,Kiki,Right,Duck,14,45,Option L,raspberry
+Tobias,1996-05-16,43,male,Yes,Right-handed,9,Yes,Yes,0.93,18,21,105,White shark,54,120,120,Raven,Puzzling,Kiki,Right,Rabbit,20,4,Option L,rosehips
+Frida,1997-09-09,40,female,Yes,Right-handed,9,Yes,"Yes, of course!!",0.96,19,3,46,Eiffel Tower,65,120,14,Horse,Nice,Bouba,Right,Duck,1,10,Option L,raspberry
+emil,1995-01-20,42,male,Yes,Right-handed,1,Yes,"Yes, of course!!",0.959,15,4,116,Eiffel Tower,40,120,120,Dog,Exciting,Kiki,Both,Rabbit,6,45,Option S,blackcurrant
+Stine,1996-06-24,39,female,Yes,Right-handed,7,"Yes, of course!!","Yes, of course!!",0.99,20,5,62,White shark,42,120,120,Elk,Nice,Kiki,Right,Duck,8,40,Option L,raspberry
+Johan,1997-04-10,41,male,Yes,Right-handed,7,"Yes, of course!!","Yes, of course!!",0.97,120,7,48,Damascus,32,120,120,Raven,Exciting,Kiki,Right,Duck,50,40,Option S,bitter_orange
+Lasse,1997-12-13,43,male,Yes,Right-handed,8,"Yes, of course!!","Yes, of course!!",0.96,25,5,130,Eiffel Tower,47,120,8,Elk,Puzzling,Bouba,Left,Duck,14,39,Option L,ginger
+Oliver,1997-05-22,43,male,Yes,Right-handed,5,Yes,"Yes, of course!!",1.01,27,106,50,Rattle snake,28,120,81,Bear,Exciting,Bouba,Left,Duck,21,24,Option S,ginger
+Alexander,1996-09-02,44,male,Yes,Right-handed,9,"Yes, of course!!",Yes,0.93,9,120,111,Damascus,39,120,120,Elk,Exciting,Kiki,Left,Rabbit,20,30,Option L,blackcurrant
+Mie,1998-06-15,37,female,Yes,Right-handed,5,Yes,"Yes, of course!!",0.96,33,43,40,Eiffel Tower,35,120,120,Bear,Puzzling,Bouba,Left,Duck,15,40,Option S,raspberry
+Christoffer,1991-05-18,44,male,Yes,Right-handed,4,"Yes, of course!!","Yes, of course!!",0.94,11,6,79,White shark,37,120,39,Raven,Puzzling,Kiki,Left,Rabbit,3,22,Option S,rosehips
+Jakub,1998-07-12,41,male,No,Right-handed,2,"Yes, of course!!",Yes,0.96,106,9,66,Ultra Marathon,55,120,9,Dog,Exciting,Kiki,Left,Duck,14,8,Option S,rosehips
+Josephine,2018-08-23,41,female,Yes,Left-handed,7,"Yes, of course!!","Yes, of course!!",1.02,18,5,52,Eiffel Tower,60,120,120,Dog,Exciting,Kiki,Right,Duck,30,27,Option L,raspberry
+Katrine,2018-06-18,40,female,Yes,Right-handed,7,Yes,"Yes, of course!!",0.99,25,2,50,Eiffel Tower,72,120,9,Elk,Exciting,Kiki,Left,Rabbit,2,50,Option S,ginger
+Sofie,1994-04-24,38,female,Yes,Right-handed,8,"Yes, of course!!","Yes, of course!!",1.03,13,120,66,Eiffel Tower,57,120,120,Dog,Nice,Kiki,Right,Rabbit,12,35,Option S,rosehips
+Peter,1998-06-16,42,male,Yes,Right-handed,7,No,"Yes, of course!!",0.99,12,61,40,Damascus,63,34,27,Dog,Exciting,Kiki,Both,Duck,12,77,Option S,ginger
+Melina,1996-12-16,39,female,Yes,Right-handed,4,"Yes, of course!!",Yes,0.92,42,9,47,Eiffel Tower,72,120,120,Dog,Nice,Bouba,Both,Rabbit,4,40,Option L,raspberry
+Rebecca Foss Kjeldsen,1997-01-30,36,female,Yes,Left-handed,6,Hell no!,"Yes, of course!!",0.94,24,8,62,Damascus,54,120,120,Bear,Exciting,Kiki,Right,Duck,9,42,Option L,blackcurrant
+Astrid,2018-01-28,40,female,Yes,Right-handed,9,"Yes, of course!!","Yes, of course!!",1.04,21,10,50,Eiffel Tower,46,120,7,Bear,Exciting,Bouba,Right,Rabbit,25,0,Option L,blackcurrant
+Louise,1996-07-31,39,female,Yes,Right-handed,8,"Yes, of course!!","Yes, of course!!",0.96,14,11,45,Eiffel Tower,43,120,120,Dog,Exciting,Bouba,Both,Duck,21,23,Option S,blackcurrant
+Bella,1993-06-13,37,female,Yes,Right-handed,4,Yes,Yes,0.99,17,6,37,Damascus,47,120,120,Bear,Exciting,Bouba,Right,Duck,4,0,Option L,bitter_orange
+Helene,1998-09-01,38,female,Yes,Right-handed,9,Yes,"Yes, of course!!",1.03,13,20,30,Eiffel Tower,46,120,81,Dog,Exciting,Bouba,Left,Duck,1,15,Option S,rosehips
+Cecilie,2018-08-05,41,female,Yes,Right-handed,4,"Yes, of course!!","Yes, of course!!",0.99,11.5,8,75,Eiffel Tower,48,120,120,Bear,Exciting,Bouba,Right,Rabbit,40,85,Option S,raspberry
+Anna,1997-12-05,37,female,Yes,Right-handed,5,Yes,"Yes, of course!!",0.88,11,3,61,Eiffel Tower,32,120,112,Elk,Puzzling,Kiki,Right,Duck,35,30,Option S,raspberry
+Astrid,1993-11-08,37,female,Yes,Right-handed,9,Yes,"Yes, of course!!",1.03,13,14,59,Damascus,44,120,120,Bear,Puzzling,Bouba,Left,Duck,2,40,Option L,blackcurrant
+Aske,1996-08-25,45,male,Yes,Right-handed,8,Yes,Yes,1.0,19,66,28,Eiffel Tower,62,120,91,Dog,Pretty,Bouba,Right,Duck,12,20,Option L,raspberry
+Andreas,1995-01-30,44,male,Yes,Right-handed,4,Hell no!,Yes,0.96,27,120,62,Eiffel Tower,42,120,120,Raven,Puzzling,Kiki,Right,Rabbit,8,0,Option L,raspberry
+Nicole,1998-03-07,41,female,No,Right-handed,4,Yes,"Yes, of course!!","1,03",13,5,44,Eiffel Tower,49,120,85,Bear,Easy,Kiki,Left,Rabbit,20,20,Option L,bitter_orange
+Bianka,1999-02-26,38,female,No,Right-handed,6,Yes,"Yes, of course!!",0.94,1,3,46,Eiffel Tower,41,120,120,Dog,Nice,Kiki,Left,Duck,28,20,Option S,bitter_orange
+Kata,1999-10-22,37,female,No,Right-handed,6,No,"Yes, of course!!",1.01,28,4,54,White shark,38,120,120,Raven,Exciting,Bouba,Right,Rabbit,48,2,Option L,blackcurrant
+Riikka,1996-09-29,39,female,No,Right-handed,1,Yes,"Yes, of course!!",0.94,60,15,76,Eiffel Tower,69,120,6,Elk,Exciting,Kiki,Right,Duck,10,25,Option S,raspberry
+Orla,1995-08-20,36,female,No,Right-handed,7,I used to be able to do it,"Yes, of course!!",0.92,59,9,52,Eiffel Tower,41,120,120,Horse,Exciting,Kiki,Both,Rabbit,14,30,Option S,raspberry
