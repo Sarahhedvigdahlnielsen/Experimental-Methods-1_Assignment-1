@@ -1,0 +1,132 @@
+---
+title: "Chapter 4 - Exploring Data with Graphs"
+author: "Sarah Hedvig Dahl Nielsen"
+date: "24/9/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+### Packages used
+```{r packages}
+pacman::p_load(ggplot2)
+```
+
+
+
+### Data
+
+The data is from the Companion website https://studysites.uk.sagepub.com/dsur/study/articles.htm
+
+```{r loading data}
+facebookData <- read.delim("FacebookNarcissism.dat", header = TRUE)
+examData <- read.delim("Exam Anxiety.dat", header = TRUE)
+festivalData <- read.delim("DownloadFestival.dat", header = TRUE)
+```
+
+
+### Plots
+
+#### Exercise 1
+In the first exercise we use the facebookData. It contains the following four variables
+
+
+  - id: a number indicating from which participant the profile photo came
+
+  - NPQC_R_Total: the total score on the narcissism questionnaire
+
+  - Rating_Type: whether the rating was for coolness, glamour, fashion or attractiveness (stored as strings of text)
+
+  - Rating: the rating given (on a scale from 1 to 5)
+
+
+##### Exercise 1.1
+The aim is to plot the relationship between narcissism (NPQC_R_Total) against the general profile ratings (Rating)
+
+```{r exercise 1.1 (Facebook)}
+ggplot(facebookData, aes(NPQC_R_Total, Rating)) + geom_point(aes(color = Rating_Type), position = "jitter")
+```
+
+##### Exercise 1.2
+Plot a graph that shows the pattern in the data using only a line.
+
+```{r exercise 1.2 (Facebook)}
+ggplot(facebookData, aes(NPQC_R_Total, Rating)) + geom_smooth(method = lm, se = F)
+```
+
+##### Exercise 1.3
+  - Plot different coloured lines for the different types of rating (cool, fashionable, attractive, glamorous)
+  - Add a layer displaying the raw data as points
+
+```{r exercise 1.3 (facebook)}
+ggplot(facebookData, aes(NPQC_R_Total, Rating, color = Rating_Type)) + geom_smooth(method = lm, se = F) + geom_point()
+```
+
+
+#### Exercise 2
+
+In the second exercise we use the exam anxiety data. It contains the following 5 variables
+
+  - Code: a number indicating from which participant the scores came
+  
+  - Revise: the total hours spent revising
+  
+  - Exam: mark on the exam as a percentage
+  
+  - Anxiety: the score on the EAQ
+  
+  - Gender: Whether the participant was male or female
+  
+##### Exercise 2.1
+The aim is to plot anxiety levels against exam performance and do a linear regression.
+
+```{r Exercise 2.1 (exam anxiety)}
+ggplot(examData, aes(Anxiety, Exam)) + geom_point() + geom_smooth(method = "lm", color = "Red", se = F) + labs(x = "Exam Anxiety", y = "Exam performance %")
+```
+
+##### Exercise 2.2
+
+In this exercise we will build on the scatterplot from 'Exercise 2' to see whether gender affects the reaction to exam anxiety.
+
+```{r Exercise 2.2 (exam anxiety)}
+ggplot(examData, aes(Anxiety, Exam, colour = Gender)) + geom_point() + geom_smooth(method = "lm", aes(fill = Gender), alpha = 0.1) + labs(x = "Exam Anxiety", y = "Exam performance %")
+```
+
+
+#### Exercise 3
+In exercise 3 we use the festival data
+
+##### Exercise 3.1
+Making a histogram
+
+```{r exercise 3.1 (festival)}
+ggplot(festivalData,aes(day1)) + geom_histogram(binwidth = 0.4) + labs(x = "Hygiene (Day 1 of Festival)", y = "Frequency")
+```
+
+##### Exercise 3.2
+
+Making a boxplot
+```{r Exercise 3.2 (festival)}
+ggplot(festivalData, aes(gender,day1)) + geom_boxplot() + labs(x = "Gender", y = "Hygiene (Day 1 of Festival)")
+```
+
+##### Exercise 3.3
+Finding the outlier
+```{r Exercise 3.3 (festival)}
+festivalData[order(festivalData$day1),]
+
+festivalData <- festivalData[-c(810),]
+```
+
+
+##### Exercise 3.4 
+Making a density plot
+
+```{r Exercise 3.4 (festival)}
+ggplot(festivalData, aes(day1)) + geom_density() + labs(x = "Hygiene (Day 1 of Festival)", y = "Density Estimate")
+```
+
